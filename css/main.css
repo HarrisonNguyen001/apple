@@ -1,0 +1,237 @@
+html {
+    background: #f2f2f2;
+}
+html {
+    font-family: "Myriad Set Pro","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 112.5%;
+    quotes: "“" "”";
+}
+html {
+    font-size: 100%;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+html, body {
+    margin: 0;
+    padding: 0;
+}
+html[Attributes Style] {
+    -webkit-locale: "en-US";
+}
+html {
+    display: block;
+}
+
+#ac-globalnav .ac-gn-content {
+    margin: 0 auto;
+    max-width: 980px;
+    padding: 0 22px;
+    position: relative;
+    z-index: 2;
+}
+#ac-globalnav, #ac-globalnav:before, #ac-globalnav:after, #ac-globalnav *, #ac-globalnav *:before, #ac-globalnav *:after, #ac-gn-segmentbar, #ac-gn-segmentbar:before, #ac-gn-segmentbar:after, #ac-gn-segmentbar *, #ac-gn-segmentbar *:before, #ac-gn-segmentbar *:after {
+    box-sizing: content-box;
+    margin: 0;
+    padding: 0;
+    pointer-events: auto;
+    letter-spacing: normal;
+}
+#ac-globalnav, #ac-globalnav input, #ac-globalnav textarea, #ac-globalnav select, #ac-globalnav button, #ac-gn-segmentbar, #ac-gn-segmentbar input, #ac-gn-segmentbar textarea, #ac-gn-segmentbar select, #ac-gn-segmentbar button {
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -moz-font-feature-settings: 'liga', 'kern';
+    direction: ltr;
+    text-align: left;
+}
+#ac-globalnav .ac-gn-list {
+    cursor: default;
+    margin: 0 -10px;
+    width: auto;
+    height: 44px;
+    text-align: justify;
+    user-select: none;
+}
+#ac-globalnav .ac-gn-item {
+    display: inline-block;
+    position: relative;
+    height: 44px;
+    z-index: 1;
+    vertical-align: top;
+}
+#ac-globalnav .ac-gn-link-apple {
+    background-repeat: no-repeat;
+    background-size: 20px 44px;
+    background-image: url(../images/globalnav/apple/image_large.svg);
+    background-position: center center;
+    width: 20px;
+}
+#ac-globalnav .ac-gn-link-mac {
+    background-repeat: no-repeat;
+    background-size: 31px 44px;
+    background-image: url(../images/globalnav/links/mac/image_large.svg);
+    background-position: center center;
+    background-origin: content-box;
+    background-size: cover;
+    width: 1.9375em;
+    max-width: 52.7px;
+}
+#ac-globalnav .ac-gn-link-ipad {
+    background-repeat: no-repeat;
+    background-size: 30px 44px;
+    background-image: url(../images/globalnav/links/ipad/image_large.svg);
+    background-position: center center;
+    background-origin: content-box;
+    background-size: cover;
+    width: 1.875em;
+    max-width: 51px;
+}
+#ac-globalnav, #ac-gn-segmentbar {
+    font-weight: normal;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+}
+.main {
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+}
+#ac-globalfooter {
+    font-size: 12px;
+    line-height: 1.66667;
+    font-weight: 400;
+    letter-spacing: normal;
+    background-color: #f2f2f2;
+    color: #666;
+    min-width: 1024px;
+    overflow: hidden;
+    position: relative;
+    z-index: 1;
+}
+#ac-globalfooter, #ac-globalfooter select, #ac-globalfooter button {
+    font-family: "Myriad Set Pro","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+#ac-globalfooter, #ac-globalfooter input, #ac-globalfooter textarea, #ac-globalfooter select, #ac-globalfooter button {
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -moz-font-feature-settings: 'liga', 'kern';
+    direction: ltr;
+    text-align: left;
+}
+#ac-globalfooter, #ac-globalfooter:before, #ac-globalfooter:after, #ac-globalfooter *, #ac-globalfooter *:before, #ac-globalfooter *:after {
+    box-sizing: content-box;
+    margin: 0;
+    padding: 0;
+    pointer-events: auto;
+    letter-spacing: normal;
+}
+#ac-globalfooter {
+    font-weight: normal;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+}
+article, aside, footer, header, nav, main, section, summary, details, hgroup, figure, figcaption {
+    display: block;
+}
+footer[Attributes Style] {
+    -webkit-locale: "en-US";
+}
+
+article, aside, footer, header, hgroup, main, nav, section {
+    display: block;
+}
+
+body, input, textarea, select, button {
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -moz-font-feature-settings: 'liga', 'kern';
+    direction: ltr;
+    text-align: left;
+}
+body {
+    font-size: 18px;
+    line-height: 1.4446;
+    font-weight: 400;
+    letter-spacing: 0em;
+    background-color: #fff;
+    color: #333;
+    font-style: normal;
+}
+html {
+    font-family: "Myriad Set Pro","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 112.5%;
+    quotes: "“" "”";
+}
+html {
+    font-size: 100%;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+#ac-globalfooter, #ac-globalfooter:before, #ac-globalfooter:after, #ac-globalfooter *, #ac-globalfooter *:before, #ac-globalfooter *:after {
+    box-sizing: content-box;
+    margin: 0;
+    padding: 0;
+    pointer-events: auto;
+    letter-spacing: normal;
+}
+
+#ac-globalfooter, #ac-globalfooter:before, #ac-globalfooter:after, #ac-globalfooter *, #ac-globalfooter *:before, #ac-globalfooter *:after {
+    box-sizing: content-box;
+    margin: 0;
+    padding: 0;
+    pointer-events: auto;
+    letter-spacing: normal;
+}
+
+#ac-globalfooter .ac-gf-directory-column-section-title {
+    font-size: 12px;
+    line-height: 1.66667;
+    font-weight: 600;
+    letter-spacing: normal;
+    color: #333;
+    margin: 0;
+}
+
+#ac-globalfooter .ac-gf-directory-column-section-list {
+    margin-right: 20px;
+    list-style: none;
+    padding: 0;
+}
+#ac-globalfooter .ac-gf-directory-column-section-item {
+    display: block;
+    pointer-events: auto;
+}
+#ac-globalfooter *, #ac-globalfooter *:before, #ac-globalfooter *:after {
+    font-size: 1em;
+    font-family: inherit;
+    font-weight: inherit;
+    line-height: inherit;
+    text-align: inherit;
+}
+#ac-globalfooter .ac-gf-directory-column {
+    position: relative;
+    z-index: 1;
+    min-height: 2px;
+    margin: 0;
+    padding: 0;
+    float: left;
+    width: 25%;
+}
+#ac-globalfooter .ac-gf-directory-column-section {
+    width: 100%;
+    position: relative;
+    z-index: 1;
+    min-height: 2px;
+    margin: 0;
+    padding: 0;
+    float: left;
+    pointer-events: none;
+}
